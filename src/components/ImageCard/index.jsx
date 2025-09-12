@@ -25,3 +25,11 @@ const ImageCard = ({ photo, title }) => (
 );
 
 export default ImageCard;
+
+// export default function ImageCard({ photo, title }) {
+//   return (
+//     <Card photo={photo}>
+//       <Title>{title}</Title>
+//     </Card>
+//   );
+// }
