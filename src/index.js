@@ -2,7 +2,10 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
 import '@material/react-text-field/dist/text-field.css';
-// import * as serviceWorker from './serviceWorker';
+import '@material/react-material-icon/dist/material-icon.css';
+import 'slick-carousel/slick/slick.css';
+import 'slick-carousel/slick/slick-theme.css';
+// import * as serviceWorker from './serviceWorker._js';
 
 ReactDOM.render(
   <React.StrictMode>
