@@ -16,7 +16,7 @@ export const Search = styled.section`
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-color: #ffffff;
+  background-color: #f8f6f6ff;
   padding: 16px;
 `;
 
@@ -25,7 +25,7 @@ export const Logo = styled.img`
 `;
 
 export const Map = styled.div`
-  background-color: #fff8db;
+  background-color: #9e9676ff;
   width: calc(100vw - 360px);
 `;
 
