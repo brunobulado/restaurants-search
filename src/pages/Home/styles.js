@@ -25,7 +25,7 @@ export const Logo = styled.img`
 `;
 
 export const Map = styled.div`
-  background-color: #9e9676ff;
+  background-color: #9e9676ff; //#fff8db 
   width: calc(100vw - 360px);
 `;
 
