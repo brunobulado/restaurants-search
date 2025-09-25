@@ -25,7 +25,7 @@ export const Logo = styled.img`
 `;
 
 export const Map = styled.div`
-  background-color: red;
+  background-color: orange;
   width: calc(100vw - 360px);
 `;
 
